@@ -4,7 +4,6 @@ import (
 	"blog-app/configs"
 	"blog-app/routes"
 
-	//"log"
 	"os"
 
 	//"github.com/joho/godotenv"
